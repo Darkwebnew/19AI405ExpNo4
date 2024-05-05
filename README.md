@@ -164,7 +164,6 @@ print(graph)
 aStarAlgo('S', 'G')
 ```
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
 
 <hr>
 <h2>Sample Input</h2>
@@ -204,7 +203,6 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 <h2>Sample Graph II</h2>
 <hr>
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
 
 
 <hr>
